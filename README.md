@@ -1,5 +1,7 @@
 # How to Open a Pull Request on GitHub
 
+> Note: Pull requests can technically be done without knowledge of Git, especially for small typo fixes, etc. that can be done completely in the browser. For bigger (code) changes, I recommend first learning [how to Git](https://github.com/avidrucker/how-to-git) on your computer locally.
+
 ## 1. Introduction to Pull Requests
 - **What is a Pull Request?** A pull request (PR) is a method to submit contributions to a project on GitHub. It's how you propose changes and request that someone reviews and pulls your contribution into their branch.
 - **Purpose:** Pull requests are central to collaboration in GitHub. They allow you to share your changes, discuss improvements, and collaborate with others.
